@@ -1,0 +1,74 @@
+body {
+    margin: 0em;
+    padding: 0em;
+}
+/* Login start */
+.header_login {
+    background-color: ghostwhite;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.login_bar {
+    float: right;
+    line-height: 50px;
+}
+
+.login_bar a {
+    text-decoration: none;
+    color: silver;
+}
+
+.login_bar span {
+    color: silver;
+}
+/* Login end */
+
+/* nav bar */
+
+.nav {
+    clear: both;
+    height: 150px;
+    background-color: skyblue;
+    margin-top: 0px;
+    position: relative;
+   
+}
+
+.nav_logo h1 {
+padding: 0px 15px;
+margin: 20px;
+
+}
+
+.nav_logo {
+    float: left;
+    width: 30%;
+}
+
+
+
+.nav_logo h6{
+    left: 20px;
+    margin-left: 35px;
+    position: absolute;
+    left: 15px;
+    bottom: 50px;
+}
+
+.menu {
+    float: right;
+    position: absolute;
+    right: 150px;
+    top: 95px;
+}
+
+.menu a {
+    margin-right: 20px;
+    text-decoration: nones;
+}
+
+
+
+
